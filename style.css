@@ -250,6 +250,11 @@ body {
     font-size: 1.13rem;
 }
 
+.btn__join:active {
+    background-color: #80b2cf;
+    color: #000;
+}
+
 @media (max-width: 768px) {
     .desc__story {
         font-size: 1.5rem;
